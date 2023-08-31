@@ -1,0 +1,441 @@
+13082023	19:20:50	9f22ed64-5857-4fa1-89d7-3fae1f15f620	An event occurred.
+13082023	19:21:32	4b96ffcb-9d36-4253-8474-13d4dee110ed	An event occurred.
+13082023	19:23:56	9d5a31f9-eb12-4074-a1ae-d0c05feeb8a5	An event occurred.
+13082023	19:26:46	eb22ef42-3abb-456a-be18-6670e3a2703f	An event occurred.
+13082023	19:27:41	839dd847-ce8c-4054-8b7d-3a830d92e841	An event occurred.
+13082023	19:34:54	86efdb8b-8a1d-48ee-9e69-1a58a44108c7	An event occurred.
+13082023	19:36:04	e4871c9f-f6e7-41fa-978d-ec0ab9c6e5c1	An event occurred.
+13082023	19:36:06	fca87532-35e4-471e-919f-3db2e36fde8f	Somethink changed!
+13082023	19:36:10	51f8ca0f-de3a-4e15-8a1b-882b799fb8cb	An event occurred.
+13082023	19:36:12	b2451d24-f291-4155-88f5-7ea6094e0027	An event occurred.
+13082023	19:36:14	68854224-c2d3-4f9e-a2fd-2629cea02bad	Somethink changed!
+13082023	19:36:24	666c6c2f-9c47-4c64-9cbf-fced128b17e6	An event occurred.
+13082023	19:36:26	8271968a-6afe-4f6b-b8d3-a541640076fe	Somethink changed!
+13082023	19:37:23	33d7d0ac-3ba6-49fb-a16d-9c356e1750a7	An event occurred.
+13082023	19:37:25	60eec079-4825-4110-a6a9-35a2db1aaa6d	Somethink changed!
+13082023	20:01:43	eff52da5-2e0e-464a-ba13-5e72448a9551	An event occurred.
+13082023	20:01:45	d25d1e26-5374-4c8c-8ee9-461e18b1b164	Somethink changed!
+13082023	20:02:50	b9e986dc-abfe-4ddb-8df1-bddc3d6874eb	An event occurred.
+13082023	20:02:52	ace0cb6f-56a9-469e-8aa1-0932df4829ea	Somethink changed!
+13082023	20:03:40	60116732-3135-4021-9ad9-7b5eb77d8a8b	An event occurred.
+13082023	20:03:42	e75d811a-b923-487f-ad00-15ad20fd5536	Somethink changed!
+13082023	20:06:14	38189a4d-7553-4729-b0d9-14172395574a	An event occurred.
+13082023	20:06:16	c196ce35-5170-402f-b8be-8ac48d12048e	Somethink changed!
+13082023	20:11:31	eae40986-8ce8-4ee4-942f-d2fe003fa3f4	An event occurred.
+13082023	20:11:32	3831ce46-9aa1-4317-9613-8f67e82e0998	An event occurred.
+13082023	20:11:34	7f633ff2-dc90-4314-86a0-138938efb355	Somethink changed!
+14082023	10:04:07	c04db755-7184-42c2-abc2-c226641133bd	An event occurred.
+14082023	10:04:18	8b431215-0cc8-4e51-a6c6-5372ac8f0778	/	GET
+14082023	10:04:18	f4569844-1f0c-4be8-92e3-174c6425cdfe	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:04:48	67009019-c238-4c4a-a3bd-5e24db272af7	/	GET
+14082023	10:04:48	b7bc6ff9-f03e-4875-9182-07c2c95e1f5c	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:05:18	98d43c21-ac04-4329-b1d1-48bc546fcb7b	An event occurred.
+14082023	10:05:40	1f6622f0-0855-47e9-b5cb-3b31d57b294b	/	GET
+14082023	10:05:40	9d0d1e73-98fe-4933-8efa-553feae54dae	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:07:13	d0d69b2c-8592-4abe-95b7-e6cbed99522e	An event occurred.
+14082023	10:07:16	f42baf34-c983-4d92-bcc7-9fbbae4334b7	/	GET
+14082023	10:07:16	615f6f01-3340-42a3-a4eb-683896668c32	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:07:17	3aedca6c-b337-479b-8442-f9b383015f77	/	GET
+14082023	10:07:17	48fa45ff-299f-419a-b77f-fec567d063a2	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:07:38	c33cbd5b-dd7b-4a23-b3e0-6c1a97242ed1	An event occurred.
+14082023	10:07:51	636b89df-639c-45bf-872b-5f8edd02d864	/	GET
+14082023	10:07:51	e693abf2-6a88-48d3-9604-f1e642d1cd84	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:11:03	49406a3f-b092-46bb-97d2-83dc518feab7	An event occurred.
+14082023	10:11:12	a12ac157-e1db-4239-b56c-b575e7009ba1	/	GET
+14082023	10:11:12	2234c12d-593c-4e6a-8f88-269bbcaf4a09	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:14:22	e1355c6b-5021-4845-a0fc-fb820fd2e565	/	GET
+14082023	10:14:22	95d3c415-222b-4334-92ba-0f6257936ab0	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:14:31	d7f5fc5d-8af1-4e31-bc5d-2dff54d33f1f	/	GET
+14082023	10:14:31	ac90913b-0e7c-4781-897e-1ee410ede670	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:14:32	15fa6df7-aab0-4dad-8ab7-10e75e2453ea	/	GET
+14082023	10:14:32	6fb37aa3-1c1f-45c6-b9b8-4ae9700afa53	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:17:32	6e04bbcd-cbf8-4e34-84d4-a942bf553553	/	GET
+14082023	10:17:32	f6143309-2808-4345-a661-b8ab99389292	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:20:34	efad28e2-1c30-425c-bc44-3ff3d41b01b6	An event occurred.
+14082023	10:21:00	a3aa12b4-a34d-419f-9344-7406682df33a	/	GET
+14082023	10:21:00	bec2abb4-423d-46b1-a5e3-4f9a53c77f49	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:26:16	b0f9e66a-2dcd-4fd7-8daa-b80cb8826790	/	GET
+14082023	10:26:16	5e636ab1-ea5a-4556-a418-9c10c410a239	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:30:26	6ad9ce9a-7e2d-47d3-bbbf-0c943b935227	An event occurred.
+14082023	10:30:49	532e9bbd-4a58-4833-aabf-67a3200bbaca	An event occurred.
+14082023	10:30:52	f45be153-0d6a-437d-860a-f860c3cd17b4	An event occurred.
+14082023	10:31:24	12b8dc0d-c315-4685-9b4a-020e746da3df	/old-page	GET
+14082023	10:31:24	a8bda3d5-c093-4756-8c90-725ec66cacc8	/new-page.html	GET
+14082023	10:31:24	89b87e0f-f022-4253-9dfa-4e558fc213d1	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:35:06	f67e523b-56ad-4648-bec8-0a332480f154	An event occurred.
+14082023	10:35:12	88a91c95-66af-42fa-9182-33816ed2bcf2	An event occurred.
+14082023	10:35:38	cc0cb7e3-c8d7-452e-920c-76e546820666	An event occurred.
+14082023	10:35:41	b836c445-40bf-4e90-a013-7dc5ae6b9dd8	An event occurred.
+14082023	10:36:10	1482c557-dd5d-482c-9d35-8d9c59264a52	An event occurred.
+14082023	10:38:51	5c66203a-af09-4a25-b63d-5ebf737a4f9d	An event occurred.
+14082023	10:39:01	469fc90c-376f-4b3a-b120-bf4d6792cd2d	An event occurred.
+14082023	10:39:38	0759adad-b2f2-4440-9fc7-fb21b40a27fe	/	GET
+14082023	10:39:38	a37df07b-8417-4a8f-aaf8-c72f8a421aaf	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:39:39	f1325339-f476-48e9-a054-6a18a95d52d8	/	GET
+14082023	10:39:39	70ef19cc-2e46-460f-815b-93f1809757b2	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:39:58	b8f9ad4d-802e-4a2c-8f9c-42ffd1c937e3	An event occurred.
+14082023	10:40:32	4a8d6a54-8bee-4ac2-8050-8d4f31bcd073	/	GET
+14082023	10:40:32	fe7d7c66-86b1-45d0-a762-e8778569ddfe	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:40:33	01ce41d2-9ace-482c-9b77-5203d2ef68a4	/	GET
+14082023	10:40:33	a4bf1487-dee6-4de7-938b-4a23c4e65c7d	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:42:21	7a1956aa-87d5-4599-9a11-795d98fa9246	/	GET
+14082023	10:42:21	56f95ef7-5055-4d29-a4e6-4f1c82da9cae	Error: ENOENT: no such file or directory, open 'C:\Users\stech\OneDrive\Рабочий стол\IT KURS\Backend\Nodeserver\views\404.html'
+14082023	10:44:53	cbfed179-3216-429f-8327-33bc2987b4df	An event occurred.
+14082023	10:46:17	758967dc-611c-4d46-a313-ee6eee8b14e0	An event occurred.
+14082023	10:46:25	fb60cb38-08f7-48f7-a0df-6b3452050af8	/	GET
+14082023	10:46:25	af3f470f-d2bc-4415-8133-d49eca6f8bc3	/css/stylesheet.css	GET
+14082023	10:46:25	6aa194e0-404f-4110-ba27-f24b037c5d05	/favicon.ico	GET
+17082023	11:25:52	d6576a44-f562-4ad0-84d9-c7f938af0595	An event occurred.
+17082023	11:26:37	8eb22198-2778-4616-aab4-54ed343d4511	An event occurred.
+17082023	11:27:43	f7061cc0-9167-4b84-8e90-33c16d2671e7	An event occurred.
+17082023	11:28:43	59567c01-f595-4d13-a44e-886733fb8fa2	An event occurred.
+17082023	11:28:47	57068288-9194-492f-97a5-7e471bef65ed	An event occurred.
+17082023	11:29:08	23d8ace8-dd02-4f67-be4e-67b213c15855	An event occurred.
+17082023	11:29:57	bbc6483d-8f4f-4a69-9562-6b39014358df	An event occurred.
+17082023	11:33:22	00722c56-8152-4668-a90f-3b9c6909427d	An event occurred.
+18082023	13:02:32	b0b00750-3ca9-4342-b10c-67c2a107bfd8	An event occurred.
+18082023	13:11:17	c55aa462-943d-4791-84ce-f7c0f06f7194	An event occurred.
+18082023	13:11:30	cc7701e8-682c-4053-9bc9-cc75a930e347	An event occurred.
+18082023	13:11:39	bfd78d62-3c1e-400d-9311-f1b119ec5df9	An event occurred.
+18082023	13:11:43	d3820b8a-0b4b-488d-9789-2abded83dbfb	An event occurred.
+18082023	13:11:44	64571a8c-5896-4f8c-a6d1-523bb2d2e278	An event occurred.
+18082023	13:11:47	eb7fd6da-159f-4ed4-bad1-cd53b1ed85ea	An event occurred.
+18082023	13:12:08	df2d9086-593d-45c8-8eb9-a9299fe1f84c	An event occurred.
+18082023	13:12:27	faf78986-db76-4063-90c5-39e6c3dc1b83	An event occurred.
+18082023	13:12:51	0e717cea-d993-4c7f-aeca-9a44de18e802	An event occurred.
+18082023	13:17:27	08edab9c-98cf-4fd4-a689-2a38039b76d2	An event occurred.
+18082023	13:17:28	3bd15910-179b-40c9-b3fb-ce583fb5381c	An event occurred.
+18082023	13:18:22	f00ba89d-fffb-47d9-8e15-b9743bd271bc	An event occurred.
+18082023	13:24:39	ddfe4471-1efb-422b-bf20-22635084aca4	An event occurred.
+18082023	13:27:07	a196a285-d3b2-4bdf-90c2-ca70ca4c1edb	An event occurred.
+18082023	13:50:32	c342dfc3-f497-45d8-be90-79c920c3ff78	An event occurred.
+18082023	13:52:53	c36ed037-dee9-4320-b157-cf80b5cd4115	An event occurred.
+18082023	13:57:27	bc15ae19-554a-4d5b-b176-1000f2722b72	An event occurred.
+18082023	13:58:05	c933c641-9d91-4330-8ec7-3690e67c8316	An event occurred.
+18082023	14:00:36	3023b1b1-b5be-4027-b6f1-683eba9cc7e5	An event occurred.
+18082023	14:00:41	e0ca877c-095a-4970-b9f6-be1be7a833f7	GET	undefined	/
+18082023	14:00:43	7d9138d1-8a9e-4802-84ad-d19e4430f0d5	GET	undefined	/
+18082023	14:04:48	ac22bbbf-8316-4dba-9d5b-cb29bb73f6ef	An event occurred.
+18082023	14:16:52	0344967a-8b0f-4e64-9340-cffeabf0e79d	An event occurred.
+18082023	14:17:19	5862b31a-a078-402d-bad0-38ed5fac19be	An event occurred.
+18082023	14:22:12	3e89d370-878d-41ed-a134-ff59c61abe43	GET	undefined	/
+18082023	14:22:15	cf81859c-3cee-485b-92a1-f17376f5d2e6	GET	undefined	/
+18082023	14:24:09	6ee18d7d-2bb2-4d7b-8c60-233cea7004dc	OPTIONS	undefined	/
+18082023	14:24:09	c1dca5b0-aa8f-4f1d-a835-8ddf470fdbc4	GET	undefined	/
+18082023	14:24:46	2cbc4714-6af4-4a11-bff7-0c55a1a376a9	OPTIONS	undefined	/
+18082023	14:24:46	ca4c89ea-e96f-4a54-9fc5-a8a0bb8182eb	GET	undefined	/
+18082023	14:25:26	6a0db205-5a7f-4800-ae50-f0423d158166	An event occurred.
+18082023	14:28:27	5282d19d-efce-4ca5-bd1b-94201eca0681	OPTIONS	undefined	/
+18082023	14:28:27	67c49fd8-2867-4317-8422-a8a1a63a9d17	GET	undefined	/
+18082023	14:28:34	bbe56560-d7cf-4c46-bfa9-80e9003f6aa3	An event occurred.
+18082023	14:28:38	706ce969-301e-4cbe-98df-3fa351eb1d91	An event occurred.
+18082023	14:28:45	ad15d7b4-ef6f-4462-b9ce-3aa497a03987	OPTIONS	undefined	/
+18082023	14:28:45	f254db03-58bc-47cb-b4e8-e41dbba77749	GET	undefined	/
+18082023	14:43:39	14b9673b-c15a-4e8f-9ed4-fb58f3f390c2	An event occurred.
+22082023	12:23:36	8d10f80c-65ac-4fa4-8cac-07978edbfac1	An event occurred.
+22082023	12:23:40	f5059fc6-a7b1-4fce-9fbb-024a163fb690	An event occurred.
+22082023	12:29:46	cb5ecd3f-d7a1-47b9-b6e1-ecb2fdb62f5e	An event occurred.
+22082023	12:35:42	751d8cdb-b8cb-4e0d-a794-ad493b5435c4	An event occurred.
+22082023	12:45:28	caaff650-50bb-4ad0-8568-75ff945e7246	An event occurred.
+22082023	12:45:31	82ba0abc-9baa-464e-9a0f-d22ab90afc0f	An event occurred.
+22082023	12:45:37	a5719103-49c2-4495-8ac8-332aab90ca59	An event occurred.
+22082023	12:45:39	0bafb773-76ce-44e7-9159-79a78bbb1a97	An event occurred.
+22082023	12:45:40	46f382cd-c9a9-4007-980c-7053c3561624	An event occurred.
+22082023	12:45:42	b5d1206f-76c3-4ed8-8d4c-7f5c7b2ea870	An event occurred.
+22082023	12:45:44	6db2ef44-fa73-4d60-ae90-c99ecc5d2823	An event occurred.
+22082023	13:24:04	44fcf115-02d7-4307-bbf5-7c69fcbef221	An event occurred.
+22082023	13:28:44	cdf7eab6-c987-4ddd-8514-d899e6b0d701	An event occurred.
+22082023	13:30:59	caee544a-2bd5-4e05-bcc3-bb4be59f8ce9	An event occurred.
+22082023	13:33:37	4e2c0b23-12ce-4faa-9fc8-06d10d70ccf4	An event occurred.
+22082023	13:33:42	d9c3771f-a72f-4024-9d45-7b323ef6df21	An event occurred.
+22082023	13:35:54	f7e8f68e-f2ff-4a0f-843b-0c2f6119718b	An event occurred.
+22082023	13:36:00	3220d514-6d71-4a46-b5ac-bd5fd9e62487	An event occurred.
+22082023	13:37:36	b6c9c8bb-b20e-4cbe-88d1-25f04e9e5d56	An event occurred.
+22082023	13:40:42	e543d8b3-05c1-4faa-89bb-2354796db205	An event occurred.
+22082023	13:40:51	24a4da9f-2a4e-442e-bd93-0bcff16f10bd	An event occurred.
+22082023	13:40:54	c3d5544c-e8ad-484a-918c-54abacefaf0f	An event occurred.
+22082023	13:41:02	c00fe9b3-a790-4907-b3b9-95398c95541b	GET	undefined	/
+22082023	13:41:03	382ebe86-99fa-4f9a-bf0f-8c5955acf03c	GET	undefined	/
+22082023	13:41:03	034ef110-48fc-4ee8-9613-71062f695206	GET	undefined	/favicon.ico
+22082023	13:45:22	2b9c593d-cdb0-40de-b084-46145035dfa9	An event occurred.
+22082023	13:45:28	631c8e35-b0f7-44a7-9114-e72482e369ec	GET	undefined	/
+22082023	13:45:28	8cfbb92b-704e-4305-858e-929aa1601014	GET	undefined	/favicon.ico
+22082023	13:47:26	23fb9290-dab5-4214-a9e1-33bb16366c32	GET	undefined	/index.html
+22082023	13:47:26	375b5879-f25d-40cd-856b-c55e590acfe9	GET	undefined	/favicon.ico
+22082023	13:47:33	60b50dc8-e8ef-49a1-a8df-af33d44b6fc4	GET	undefined	/404.html
+22082023	13:47:33	da1109da-c02f-44c5-adff-dd3385b6b354	GET	undefined	/favicon.ico
+22082023	13:47:45	27fdacf1-817b-4c4d-9876-04946b3c3d49	GET	undefined	/server
+22082023	13:47:45	685d2108-6c0a-4b68-a78d-cae42b73e046	GET	undefined	/favicon.ico
+22082023	13:47:48	a2aa122b-d4f9-4d91-806e-61308b54e814	GET	undefined	/
+22082023	13:47:48	828ec4e7-787b-4c37-8881-e343a73d9f9a	GET	undefined	/favicon.ico
+22082023	13:47:57	e8734b63-acb5-4397-bfc3-caa9e8224178	GET	undefined	/
+22082023	13:47:58	53382b49-60ba-4e45-9095-e78214087445	GET	undefined	/
+22082023	13:47:58	af0973a6-cc2b-4c0d-a30e-57d2415362f4	GET	undefined	/favicon.ico
+22082023	13:49:56	dc1eac31-6cd3-43d5-844c-81f53ad68738	An event occurred.
+22082023	13:50:19	f3864ed0-72cf-4c23-9e44-708ce7cff6cd	GET	undefined	/
+22082023	13:50:19	32e8f65f-9002-4a9a-8b99-ab0053205a9b	GET	undefined	/favicon.ico
+22082023	13:50:22	981b72c0-ef33-4815-a9f2-03f05fcd6115	GET	undefined	/
+22082023	13:50:22	22fb5ace-39af-4f71-ae90-05f822d35b2d	GET	undefined	/favicon.ico
+22082023	13:52:39	dfa5a269-f48d-4dd6-894e-613282e155ce	An event occurred.
+22082023	13:56:13	e77e90cb-e6f2-4ca3-8745-fad14fea38eb	An event occurred.
+22082023	14:13:31	97f5275b-3872-4ead-a7ef-d0586713386b	An event occurred.
+22082023	14:13:38	ba3f8094-e8bb-488e-bfca-af7bdcb872fb	An event occurred.
+22082023	14:13:43	1add08aa-e813-47a4-8c7c-dac046e4e21c	GET	undefined	/
+22082023	14:13:43	7b3821fb-1dce-4f69-9f46-6a0133898e8a	GET	undefined	/favicon.ico
+22082023	14:13:44	e3951af6-5506-4529-9b03-b6b1773d6ec1	GET	undefined	/
+22082023	14:13:45	f4dfe415-aecf-41f7-924d-7b0f2291f017	GET	undefined	/
+22082023	14:13:55	18342a3d-a2ef-4eef-9300-438ec5a87fa7	An event occurred.
+22082023	14:13:57	3840ab6f-6b4b-4339-a1c8-0983d83ca40d	GET	undefined	/
+22082023	14:19:24	d0d78125-841b-4624-870e-d2ca60ca5137	An event occurred.
+22082023	14:28:49	1a15d8bb-0c36-42fa-bd4e-4b724f056f4a	An event occurred.
+22082023	14:29:02	2e4112c4-c62d-4a91-89c0-30fbebeee309	An event occurred.
+22082023	14:31:03	f9e3c6c2-9f26-412f-a959-23682901d91a	An event occurred.
+22082023	14:32:30	6223ea5e-1f01-46d1-95be-2c415c932dfb	An event occurred.
+22082023	14:37:01	8e675633-1e20-446b-9d4d-a73bd291e8bf	An event occurred.
+22082023	14:37:12	f770dd85-1023-47d4-8236-07c2d63995a8	GET	undefined	/
+22082023	14:43:47	ad5e3b1c-b9ef-473d-8382-4322724392cd	GET	undefined	/subdir
+22082023	14:44:07	5ea77f5e-46bf-4c17-b3f6-d818a1534e87	GET	undefined	/
+22082023	14:44:24	ccd4ff34-42a7-4a5b-94c1-6e6382f6bce9	GET	undefined	/subdir
+22082023	14:44:39	129d456e-894f-4039-afb7-eb310050cd14	GET	undefined	/subdir/test
+22082023	14:45:23	71f25042-8797-4407-b5e4-d5586a836e2a	GET	undefined	/subdir
+22082023	14:50:02	34831fca-eedb-49ff-aa64-eafdf88f0dd5	GET	undefined	/
+23082023	11:33:16	f558b2f2-8f66-4d53-9502-42bbdd988c8a	An event occurred.
+23082023	11:33:22	69c6c469-d8b3-4d72-8833-81f76fc2253d	GET	undefined	/
+23082023	11:33:23	baa9b377-97c5-46f3-9e4c-20e31a2cb83d	GET	undefined	/favicon.ico
+23082023	11:33:28	8c964979-8cde-4e73-98b1-1c37e64390d8	GET	undefined	/subdir/test
+23082023	12:01:53	c152233e-c2dd-45b6-84c4-cdba099a2c01	An event occurred.
+23082023	12:01:59	91d91c73-05fc-47fc-8b2d-5dc67a94c940	GET	undefined	/subdir/test
+23082023	12:02:01	9dd5b8d6-6d3a-4950-a47d-95936e24c06d	GET	undefined	/subdir/
+23082023	12:02:08	2fd932f4-de67-455a-897d-7d79f2a65b3e	GET	undefined	/
+23082023	12:02:16	d93c6e5c-5713-4bc5-aa59-c6b3df160546	GET	undefined	/subdir/test
+23082023	12:03:01	cc38c692-cf76-4295-a760-e69fc364caeb	An event occurred.
+23082023	12:08:53	929eb803-a836-4459-8a92-2fc063c7c0a1	An event occurred.
+23082023	12:08:59	b8b3dfd1-81b7-4eed-8863-71d7b6dc44f1	An event occurred.
+23082023	12:09:05	70d07788-af61-4cae-82d7-607977eabf7b	An event occurred.
+23082023	12:09:16	f477a509-f06f-473f-9fd8-e15c24629915	GET	undefined	/subdir/test
+23082023	12:09:18	781afd1a-7f64-4e1c-9c8d-32c1c6fd22be	GET	undefined	/
+23082023	12:09:21	974aa5e1-e989-495e-a224-55c4d979fb61	GET	undefined	/subdir/test
+23082023	12:09:31	a086e48a-713b-4eb1-9461-07018c496573	GET	undefined	/old-page
+23082023	12:09:31	bdc56a03-e894-49e2-8682-08a43958d0d8	GET	undefined	/new-page.html
+23082023	12:11:40	6216363b-aa3e-48b4-8d73-9d335e12483d	An event occurred.
+23082023	12:12:43	c75e19b9-3055-4eea-9771-32af5efc217c	An event occurred.
+23082023	12:13:11	9c42c177-bb85-485b-8169-b6c28b23cd2f	An event occurred.
+23082023	12:24:56	d3e0d8ae-c244-4ca9-af08-6ccee44cc05c	An event occurred.
+23082023	12:41:58	3428f171-cc3b-4e9c-a232-a071765e81c6	GET	undefined	/employees
+23082023	12:42:18	424e266f-8785-4740-93e9-b472bb0c912d	An event occurred.
+23082023	12:42:24	e5ffc5a6-1ba1-4726-acc4-68cd96a6dfdd	GET	undefined	/employees
+23082023	12:43:58	e5850987-74ee-48bf-90ba-c6298f4afa6e	GET	undefined	/employees
+23082023	12:45:04	49a2b460-5abb-4d8d-9ec4-9eef1210c62f	An event occurred.
+23082023	12:45:06	52ab629a-c6ad-476c-ab70-312d744d7d5a	An event occurred.
+23082023	12:45:09	ab1b365c-2172-4e5a-a6c4-7f1dbb423cb5	An event occurred.
+23082023	12:45:10	ddc7133c-3648-44dc-b2c9-09394d6b75e2	An event occurred.
+23082023	12:45:11	aaa9e7cd-640f-4918-8aa7-197a43404e07	An event occurred.
+23082023	12:53:14	ff9d5608-c374-4814-a80d-3b51ab0e47c6	An event occurred.
+23082023	12:53:41	0c1ca2eb-a930-418a-a257-fa8bbb433951	GET	undefined	/employees
+23082023	12:56:42	bd53cad9-b33c-4213-b120-10826ddadd78	PUT	undefined	/employees
+23082023	12:57:27	c55c48a3-b82a-40ae-b2ef-c5b3016a6886	SyntaxError: Expected double-quoted property name in JSON at position 19
+23082023	12:57:40	ea5eb8a1-1b8d-4207-9418-ab608df9776d	DELETE	undefined	/employees
+23082023	12:59:19	ecdb82dc-528c-4f82-9b92-5725df6250f6	GET	undefined	/employees/2
+23082023	12:59:39	72f2ae6b-10a2-4792-8319-b392bb78717f	An event occurred.
+23082023	13:00:19	48778b7f-17d8-4fa5-8b7f-49007b3464d5	DELETE	undefined	/employees
+23082023	13:00:45	6b5f15c8-7c83-403d-a9b6-9e03a428b0ab	GET	undefined	/employees/2
+23082023	13:02:22	07ebedcf-2422-4299-838d-f15b80e7f8a0	GET	undefined	/employees/2
+23082023	13:03:10	79ae51a3-b24f-4a67-a684-1a3ba8cd9f95	GET	undefined	/employees/2
+23082023	13:03:15	31c1140a-78ab-43ff-a977-16ff567433d0	GET	undefined	/employees/2
+23082023	13:06:53	cb2a4c55-db4e-4a7e-a5b1-0f8e10b0ad7e	An event occurred.
+23082023	13:07:44	ec45182f-214c-4b39-9ad4-50d857d44554	GET	undefined	/employees/2
+23082023	13:09:33	fff2d672-23ab-41a2-9111-0552191513e6	GET	undefined	/subdir/test.html
+23082023	13:09:47	28b4d70e-2741-4838-912f-3f1781e6496c	GET	undefined	/2
+23082023	13:11:18	1c2f737a-d565-4a99-a26b-10f8df18b246	POST	undefined	/employees
+23082023	13:11:59	a5a6401f-5821-4ef1-b44b-d28d4a40341f	POST	undefined	/employees
+23082023	13:12:06	84f446ed-c6c1-4000-b30c-6ac57243fca7	PUT	undefined	/employees
+23082023	13:12:51	c6692168-9df5-44c9-a1c9-5b3d446f7783	DELETE	undefined	/employees
+23082023	13:13:55	e0669ff0-6f72-49d3-aa9b-25504b6fe330	GET	undefined	/employees/2
+23082023	13:55:53	6fd1611f-9117-44d4-86e7-7e247a61f164	An event occurred.
+23082023	13:55:57	70c279da-99b8-478a-a563-aef0acdbe588	An event occurred.
+23082023	13:56:03	fd07fdbb-2451-4e76-ba2f-9f37bbdf972d	GET	undefined	/new-page.html
+23082023	13:56:05	903f3e34-08bc-4339-9edc-cc1ac37c2b9c	GET	undefined	/
+23082023	13:56:54	7a50fc89-e5de-43d5-94dc-bf6a32793f0d	GET	undefined	/employees/2
+23082023	13:58:37	c31446c1-0d31-4bb8-8a52-cd9fece024ac	An event occurred.
+23082023	14:07:37	ee09f942-3af6-498a-ac9b-d4b3afcbb7de	An event occurred.
+23082023	14:07:53	1b673621-ec38-492e-8530-650d187d964a	An event occurred.
+23082023	14:34:20	9a38b49d-8075-4247-8f57-c2f230b96e0d	An event occurred.
+23082023	14:34:44	256a2bf7-280e-4da6-baff-232c7052a5f5	An event occurred.
+23082023	14:35:32	cb96c763-4c06-44a5-9dc6-4979eb383b79	An event occurred.
+23082023	14:44:46	7752b123-fa78-4c9d-b026-894d6b0cb61f	An event occurred.
+23082023	18:09:48	28f155f2-e7ae-4e96-af76-20ed5b692a80	An event occurred.
+23082023	18:09:57	d1438e00-9834-432a-83e9-9dc72067789e	GET	undefined	/
+23082023	18:09:57	f7bcf26d-e04b-48c5-a587-f58ab4293086	GET	undefined	/favicon.ico
+23082023	18:12:25	32884fdf-43cb-4bdf-b7e0-496e39742bb8	An event occurred.
+23082023	18:14:43	b0cc9491-f6ea-4d6d-9ebb-7f21a8e22ea9	POST	undefined	/register
+23082023	18:14:44	455955e2-f28a-40da-8a43-0f57634bebd0	An event occurred.
+23082023	18:21:02	83191754-5ddc-4325-950b-e12546680695	An event occurred.
+23082023	18:28:25	8807795b-ae39-4954-befd-a259be3e5af8	An event occurred.
+23082023	18:29:06	eeefa1fd-c095-4d94-8bec-2ee0b39bbbf6	An event occurred.
+23082023	18:31:10	3b342a18-6d65-4ffb-a676-489f27f4c4f6	An event occurred.
+23082023	18:31:43	4323138d-d0b7-4524-9e1d-3cd998531b43	An event occurred.
+23082023	18:32:31	21582fd6-07c1-4b20-a95b-3083f4121f38	An event occurred.
+23082023	18:34:16	0ca583db-e479-43c2-950a-24929f88ba46	POST	undefined	/auth
+23082023	18:34:26	f4a39d90-f8ca-4185-ae2f-4e57807e69ff	An event occurred.
+23082023	18:34:31	875bcb5c-9c7c-4769-a94a-824715c803b6	An event occurred.
+23082023	18:34:43	26d3bfce-a833-4120-b150-7257692c658d	POST	undefined	/auth
+23082023	18:35:34	7c4d01df-b67c-4e67-855b-8ef46139f2b3	An event occurred.
+23082023	18:35:38	96aa5a50-edbf-4259-8c98-d0a1ace54a75	POST	undefined	/auth
+23082023	18:35:55	5b73d603-b3c1-4bc3-b49f-b605590f3ab5	An event occurred.
+23082023	18:35:56	efabf6e2-8736-4291-9ae8-d0dbb1ad5c8b	An event occurred.
+23082023	18:35:58	bce5f00b-b381-4d6e-9e36-52c46bfdca52	An event occurred.
+23082023	18:35:59	284b35aa-2be9-4f00-b2d3-7ef90a4ed842	An event occurred.
+23082023	18:39:38	54c5af72-3e13-4e2c-ba9e-c090b5053165	POST	undefined	/auth
+23082023	18:43:49	3feab1b5-8d8e-48df-9a74-59b49c0b4ed2	POST	undefined	/register
+23082023	18:43:49	9cbd9282-cbf8-4f83-9d9a-14fc277552c9	An event occurred.
+23082023	18:44:15	62e84b85-7aa9-4383-884c-abeb5a88cc89	POST	undefined	/auth
+23082023	18:44:20	181ce174-03a3-4383-93f8-dd85dbafe87b	POST	undefined	/auth
+23082023	18:45:24	34d8e9c1-a145-427d-aa4a-a15a2e1fdc26	GET	undefined	/auth
+23082023	18:45:28	faebed70-f262-47c6-8ef0-46d5c2e48e78	GET	undefined	/auth
+23082023	18:45:33	d4fb0afe-cd22-4a95-b5cb-72a1c61bf5cc	GET	undefined	/auth
+23082023	18:45:36	cb1fa999-de6c-4644-b1dd-b3e5eed02fb3	GET	undefined	/auth
+23082023	18:45:51	b3b1eb4f-6f52-4fc5-898f-707a42fcd2b6	POST	undefined	/auth
+23082023	18:45:56	1a42c1f2-0031-48f8-b5b5-102175b5f246	POST	undefined	/auth
+23082023	18:48:06	a8e3fc23-9634-4f68-a40a-c6f746920af7	POST	undefined	/auth
+23082023	18:48:32	9ea45069-e706-4f3c-8a5f-14c6038e1401	POST	undefined	/auth
+30082023	12:46:01	ddf62ccb-93be-4552-9329-bf5dab8cd0c6	An event occurred.
+30082023	12:46:05	f01637d0-694d-4177-901e-c09ffe1af785	POST	undefined	/auth
+30082023	12:50:52	c7af1f7f-5ea4-429c-ba94-ed470aa0e4b2	An event occurred.
+31082023	10:00:33	edd96c90-77c9-40ec-ac63-9bff0741cbfa	An event occurred.
+31082023	10:02:49	08d270d3-59d0-4892-876b-cd03a38cc0d5	An event occurred.
+31082023	10:20:41	8767eeca-de56-448c-9fcf-bd659dc03ac4	An event occurred.
+31082023	10:20:59	1e09f298-632b-4161-8eee-e7a9a0055d16	GET	undefined	/
+31082023	10:20:59	3158cf60-0b74-45d9-a61d-69a79f6d05bc	GET	undefined	/favicon.ico
+31082023	10:24:07	1efaa069-bd8b-4d84-a3ff-5ebaaf40454c	An event occurred.
+31082023	10:24:10	4f0ec7ad-2d4e-4993-b4a4-04afbe741caf	POST	undefined	/auth
+31082023	10:24:11	94b1c8d7-aa07-45ea-8a58-6c1a05a1e621	An event occurred.
+31082023	10:24:19	e7c1c6c9-d138-4335-b7c9-a9141e7921eb	POST	undefined	/auth
+31082023	10:24:19	801453ee-0854-4159-adb2-1fb928535200	An event occurred.
+31082023	10:24:43	ab57c2e2-41ab-4b95-bc73-2b2850bb62e6	POST	undefined	/auth
+31082023	10:24:44	5e6c527c-8960-4f81-9a4a-aa56e038c6ff	An event occurred.
+31082023	10:41:03	2f5728d9-4d1d-4914-8404-4cd581a37c4d	An event occurred.
+31082023	10:43:02	f9ce30d1-ff6a-4c51-9cf8-10c021c44eff	An event occurred.
+31082023	10:43:25	0a0fee5c-6d02-453e-b6d2-43ba8fcc7322	An event occurred.
+31082023	10:45:03	13bd5436-bbda-40e9-918d-92c54ba544a1	GET	undefined	/
+31082023	11:06:30	cd0468d9-f953-4bd6-901d-2a44367ea016	An event occurred.
+31082023	11:07:01	544e5732-9464-4cc1-8d82-311b47c7be80	An event occurred.
+31082023	11:43:59	3aada375-aad3-4fcc-8a68-015de7c9235b	An event occurred.
+31082023	11:51:34	c5fae6e4-80a7-4c31-b35d-b951a12a6b72	An event occurred.
+31082023	11:54:17	2ad4dd60-fdd8-4d5b-8fd3-c2b659c33600	POST	undefined	/auth
+31082023	11:54:17	0a0a816f-12f7-48b8-a8cf-065ce2ef69ec	An event occurred.
+31082023	11:58:26	9abd9057-6e3b-4ae6-ac4c-bf5fe6449693	An event occurred.
+31082023	11:59:00	629e38ae-d692-4c8d-9229-314338f22790	An event occurred.
+31082023	12:02:03	32329000-5ba6-4389-821c-c5e2ed64c17f	An event occurred.
+31082023	12:03:21	e85b12f1-6501-4f66-bdbb-fc0747a67e14	An event occurred.
+31082023	12:03:52	1a37d31b-727d-4933-bc5a-1b01afd7152d	POST	undefined	/auth
+31082023	12:03:52	38bb4471-2534-47bd-b12b-c236ba8308dd	An event occurred.
+31082023	12:06:41	bc134245-68b5-4ecc-a0c3-4266abe6d451	An event occurred.
+31082023	12:06:51	70961522-2023-45c8-8584-1b3a3ef42b11	POST	undefined	/auth
+31082023	12:06:51	0b0383e7-3e34-4718-b499-e593f7ab8448	An event occurred.
+31082023	12:09:48	0c02a4fc-000f-4b66-a83b-a356443036a7	An event occurred.
+31082023	12:09:55	838406d2-8581-4edb-84d9-8a1eacab2703	An event occurred.
+31082023	12:10:01	f711b818-70d3-4413-a2c9-16965f1748ea	POST	undefined	/auth
+31082023	12:10:01	c51b703f-ecdf-4b96-a02d-d00b196ba550	An event occurred.
+31082023	12:16:23	7d45973c-40eb-45a9-8308-55743755bfea	An event occurred.
+31082023	12:16:30	1ed3f244-6885-49bb-807a-bdf85565eb92	POST	undefined	/auth
+31082023	12:21:32	7579ebfb-3844-4c3b-8365-bfedd67d1d81	An event occurred.
+31082023	12:21:37	09e52275-061b-4beb-a223-a2a9031de788	POST	undefined	/auth
+31082023	12:21:58	08ff1c26-f518-423f-9486-ceee812a73e8	An event occurred.
+31082023	12:22:02	ca7caa2e-e4bc-4682-822d-ada983c966af	POST	undefined	/auth
+31082023	12:22:13	89909441-6258-4b48-9b46-d0339566f90a	An event occurred.
+31082023	12:22:20	160216a3-c829-4cf9-bc77-208135ce2684	POST	undefined	/auth
+31082023	12:26:40	ea3640bf-3ed8-4919-b203-249a19140fba	GET	undefined	/refresh
+31082023	12:26:57	19fcdced-62d1-454c-a651-cb3874fec68e	GET	undefined	/refresh
+31082023	12:27:47	04933472-8fbe-4257-8704-a834f79a46e8	An event occurred.
+31082023	12:29:17	2c40b36f-d686-4986-9230-fefc110eb91f	POST	undefined	/auth
+31082023	12:29:36	3387c4ba-1020-4234-b03d-3ff3f63f5e98	POST	undefined	/auth
+31082023	12:29:53	f31b4cb0-f961-4b0c-9aa1-926a3d19e31f	GET	undefined	/refresh
+31082023	12:30:02	96f738ce-6e55-4741-b6f7-0f75ade8c8fe	POST	undefined	/auth
+31082023	12:30:15	19d8cb88-3c1b-4f9b-a490-ffd9889c43fc	POST	undefined	/auth
+31082023	12:30:29	81803c53-bf5d-4838-9005-674db1c0f543	POST	undefined	/auth
+31082023	12:30:42	cf6f2dc6-0dd8-45b0-878c-9b4ea802f514	POST	undefined	/auth
+31082023	12:31:05	b6b357da-54c8-44d0-8285-93f04bff6613	GET	undefined	/refresh
+31082023	12:31:20	0fa7aef6-8372-4145-aab2-fcce41772548	GET	undefined	/refresh
+31082023	12:31:31	b750d0be-5a4f-404e-aaa3-ef81be379784	GET	undefined	/refresh
+31082023	12:31:38	2d55f42b-81ab-4f86-9e57-81d0061d8db9	GET	undefined	/refresh
+31082023	12:31:39	77a27adc-263d-4ad1-8df1-712c29d81a7d	GET	undefined	/refresh
+31082023	12:31:40	5ba0d892-85d9-47e1-9396-b12247f27d29	GET	undefined	/refresh
+31082023	12:32:00	0a94665e-aaf1-44f4-8725-6a9ac7472ed3	GET	undefined	/refresh
+31082023	12:33:56	bc7e60cf-a6b8-4ab0-b232-4a662566ab73	An event occurred.
+31082023	12:34:09	e2c84007-7053-40dc-b6cc-bd5995ede6c5	GET	undefined	/refresh
+31082023	12:34:16	128129cb-0435-48be-b6e7-8330479014da	POST	undefined	/auth
+31082023	12:34:40	5ccd7d4d-e955-4fb8-b950-a716c065d175	POST	undefined	/auth
+31082023	12:34:56	c66fee49-c84a-4ca7-9806-6eb2c3186e8c	POST	undefined	/auth
+31082023	12:35:06	32cf8daf-2eaf-47ef-a941-7a696ae23d68	An event occurred.
+31082023	12:35:19	4857bfcf-baaa-49d3-aba0-868afdf6d72a	POST	undefined	/auth
+31082023	12:36:41	d9cc1294-c01c-4679-ad94-69a096e87206	An event occurred.
+31082023	12:36:46	1df034f5-4b3c-4182-bfb9-c3fa4251e53e	POST	undefined	/auth
+31082023	12:36:52	d0511c04-168c-42cc-91c5-67ea1077679b	POST	undefined	/auth
+31082023	12:37:01	de62e868-4433-458f-89f3-162443886179	An event occurred.
+31082023	12:37:04	2d624d5f-3298-4abc-844a-43a9304dbf03	POST	undefined	/auth
+31082023	12:37:19	2e02dd4f-1bd1-4592-8eaf-914b9ab1e310	POST	undefined	/auth
+31082023	12:37:29	bb82b27f-6772-4881-b49e-3c07c415899f	POST	undefined	/auth
+31082023	12:37:58	968047b2-8ae4-4923-b389-0d90b733bef5	POST	undefined	/auth
+31082023	12:38:07	923c121c-82ce-4bd4-a8c5-114ef36abfe0	POST	undefined	/auth
+31082023	12:38:14	43018d7f-d60d-4df2-882d-80ecfc13dde8	An event occurred.
+31082023	12:38:20	17a4eac1-9be8-48a1-a6ef-111277b48147	POST	undefined	/auth
+31082023	12:39:05	92b06583-82df-47d2-951e-ab119888e355	An event occurred.
+31082023	12:39:11	5daffbb0-c788-46da-b849-c51766774d94	POST	undefined	/auth
+31082023	12:39:11	4679bcc5-415a-4ff4-b797-0ee24c544407	POST	undefined	/auth
+31082023	12:39:12	9db38675-3997-4ec4-9b35-519a35e4fafc	POST	undefined	/auth
+31082023	12:39:25	03a5747d-92a2-42d9-8082-c4f743c461b4	An event occurred.
+31082023	12:39:28	a9b3218e-7886-461e-a0c7-71d20dee2260	POST	undefined	/auth
+31082023	12:39:31	153d457b-47e4-47e9-ae95-b7342db34c7d	POST	undefined	/auth
+31082023	12:39:48	d9556f05-92da-4c09-b01b-cb236f7887a1	An event occurred.
+31082023	12:39:52	e5d2c54e-68b8-44e4-b28d-078d3d457b5b	POST	undefined	/auth
+31082023	12:40:00	7ca9f23f-7076-4c3d-a7d6-ab0ae8b425f3	POST	undefined	/auth
+31082023	12:40:55	e4a5edf3-01bf-4591-b1ee-0b02b794c10f	An event occurred.
+31082023	12:41:20	d20a7671-4628-4ec2-a697-a6e50ace8a2f	POST	undefined	/auth
+31082023	12:43:02	e9d4ea1a-9550-4be7-8cf0-e6570474d7ae	An event occurred.
+31082023	12:43:20	e0dbc3d0-61ed-4d27-b09b-b32814dd5b48	POST	undefined	/auth
+31082023	12:43:36	8f5bdf3e-7f62-4ee9-9d30-c7779bc72ebf	An event occurred.
+31082023	12:44:04	d5a254c0-9c1f-4fe0-bfa8-562933edb998	An event occurred.
+31082023	12:44:49	c49d013b-a280-4c04-9506-08854625ffe2	An event occurred.
+31082023	12:44:56	b60fa02e-a232-4bf0-93b8-d3bee2383027	POST	undefined	/auth
+31082023	12:45:03	8749d60a-8f99-4018-84c4-c2ba37292a40	GET	undefined	/auth
+31082023	12:45:08	0cab7a70-5a09-4c86-82bc-30bb62c03f4a	POST	undefined	/auth
+31082023	12:50:08	d7e30e28-4581-4b51-9898-decc1248b765	An event occurred.
+31082023	12:50:16	18b05b19-f59b-4f40-88cb-375549747799	POST	undefined	/auth
+31082023	12:50:41	f35cb713-1872-4a25-9b1a-10f79c2bc737	An event occurred.
+31082023	12:50:44	0b967e4c-2c71-4922-831b-e702215f1373	POST	undefined	/auth
+31082023	12:50:51	e8066904-2c52-4e57-b50f-bb28cbda23b2	POST	undefined	/auth
+31082023	12:50:54	dfe3d365-d529-4454-a843-744e3aa7bc37	POST	undefined	/auth
+31082023	12:51:32	bcbe9217-ea85-4f7e-a301-2458c534abab	An event occurred.
+31082023	12:53:03	116ac94f-7c63-4b00-867c-b8a1bc02f8f6	POST	undefined	/auth
+31082023	12:53:53	19f41340-9764-4c9a-9eeb-ad8662458acb	POST	undefined	/register
+31082023	12:53:54	ec62d5c4-7e26-4ebb-a529-98d409bd2303	An event occurred.
+31082023	12:54:13	28d75196-537b-467e-abbf-61f42a0d951d	POST	undefined	/auth
+31082023	12:54:32	6a79f686-0191-4812-8d21-1784b720aec1	POST	undefined	/auth
+31082023	12:54:35	281c6761-ec77-4684-8dfc-c7ca575b7bce	POST	undefined	/auth
+31082023	12:54:48	6d3536d5-47a2-413c-abfa-207e335eee34	POST	undefined	/register
+31082023	12:54:49	4dbc78b8-67f8-45b2-ae82-35d8266f2736	An event occurred.
+31082023	12:54:56	e9b34b8c-9b42-41e7-94b3-7128f13ecf31	POST	undefined	/auth
+31082023	12:55:35	61b89351-68fd-473f-957e-2bf92762e97c	GET	undefined	/refresh
+31082023	12:56:12	880473d5-c881-4220-b206-c9ab490990c3	POST	undefined	/auth
+31082023	12:57:03	211a69fc-e595-4bf4-8b1d-06c1890c5f4b	GET	undefined	/refresh
+31082023	12:57:09	43be02c0-f8c1-4232-a53b-843c0b58b809	GET	undefined	/refresh
+31082023	12:57:13	8afd41cb-fa70-40e5-ab69-8d86a1cb7d30	GET	undefined	/refresh
+31082023	13:00:09	2fed49ca-5efa-4b91-a13a-1fb721eba9e5	An event occurred.
+31082023	13:00:33	dec7069f-61e0-41d0-b60c-f7be15f2ea80	POST	undefined	/auth
+31082023	13:00:39	bf3ca90f-888d-41ff-b8f9-163af7ff138b	GET	undefined	/refresh
+31082023	13:01:18	74610a18-5cee-456b-ba14-ec436c1f8354	An event occurred.
+31082023	13:01:58	a277e84b-12c7-4797-9b9d-01e6cd038498	POST	undefined	/auth
+31082023	13:03:33	e26e71f0-5441-4ccc-b950-a88144e37313	GET	undefined	/
+31082023	13:03:33	027ba9d5-1982-4c1d-82dd-daf83831b6e5	GET	undefined	/favicon.ico
+31082023	13:04:48	2e1994fa-e46a-4e8b-876b-1df661ce7804	An event occurred.
+31082023	13:07:54	3970bb21-8a33-4818-9aa6-05188a756fe7	GET	undefined	/refresh
+31082023	13:08:06	0de6be54-98be-42de-94b1-02969c62b706	POST	undefined	/auth
+31082023	13:08:46	972bb9dd-d654-4923-8ab8-428dcf780520	GET	undefined	/refresh
+31082023	13:08:54	7d784ee7-c093-4b85-870d-8b08a219d212	GET	undefined	/refresh
+31082023	13:13:17	3ba6d910-a75c-444d-9595-97951406ff43	An event occurred.
+31082023	13:13:23	ab13efc7-0642-4998-8164-3d68eb76289a	GET	undefined	/refresh
+31082023	13:13:30	7e458732-efa5-4c2b-974b-8feb3e6a08e3	POST	undefined	/refresh
+31082023	13:13:33	15b5b279-0022-4a1d-a9fe-961fe3c55ffd	POST	undefined	/auth
+31082023	13:13:42	3f8011d3-3baf-4033-9fba-1f6d7ba10cf6	GET	undefined	/refresh
+31082023	13:14:01	0ff25020-f205-4e02-9b39-05ee56149116	An event occurred.
+31082023	13:20:27	a93355bb-2549-48f1-83ce-111c798a146a	An event occurred.
