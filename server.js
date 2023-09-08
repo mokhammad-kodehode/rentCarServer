@@ -1,7 +1,7 @@
 //Applying static files to the router (routing file)
 
 //imports
-
+require("dotenv").config();
 const express = require("express");
 const app = express();
 const http = require("http");
@@ -9,6 +9,8 @@ const path = require("path");
 const fs = require("fs");
 const cors = require("cors");
 const cookeiParser = require("cookie-parser");
+const mongoose = require("mongoose");
+const connectDB = require("./config/dbConn");
 
 //Homebrew middlewares imports
 const { logger } = require("./middleware/logEvent");
@@ -32,6 +34,8 @@ app.use("/", require("./routes/root"));
 app.use("/register", require("./routes/register"));
 app.use("/auth", require("./routes/auth"));
 app.use("/refresh", require("./routes/refresh"));
+app.use("/logout", require("./routes/logout"));
+app.use("/cars", require("./routes/cars"));
 
 app.use(verifyJWT);
 app.use("/employees", require("./routes/api/employees"));
@@ -146,4 +150,9 @@ const server = http.createServer((req, res) => {
 
 const PORT = process.env.PORT || 3500;
 
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+connectDB();
+
+mongoose.connection.once("open", () => {
+  console.log("Connected to MongoDB");
+  app.listen(PORT, () => console.log(`App running on port ${PORT}`));
+});
