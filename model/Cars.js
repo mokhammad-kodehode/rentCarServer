@@ -14,7 +14,15 @@ const carSchema = new Schema({
     type: Number,
     require: true,
   },
-  year: {
+  class: {
+    type: Number,
+    require: true,
+  },
+  location: {
+    type: Number,
+    require: true,
+  },
+  Engine: {
     type: Number,
     require: true,
   },

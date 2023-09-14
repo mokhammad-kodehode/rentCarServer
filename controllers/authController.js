@@ -45,7 +45,7 @@ const handleLogin = async (req, res) => {
       httpOnly: true,
       maxAge: 24 * 60 * 60 * 1000,
     });
-    res.json({ accessToken });
+    res.json({ accessToken, username: foundUser.username });
   } else {
     res.sendStatus(401);
   }
