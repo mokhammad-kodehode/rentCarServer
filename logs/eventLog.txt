@@ -833,3 +833,10 @@
 14092023	15:00:55	bbeaa822-41ec-48fe-9b28-d48b30409f85	OPTIONS	undefined	/auth
 14092023	15:00:55	25d1fb89-2462-49b6-9d3b-9b649b017e2a	POST	undefined	/auth
 14092023	15:01:08	444d5c68-b20b-483c-8828-e06ebffa59fe	POST	undefined	/logout
+14092023	23:17:48	36f89706-b2cf-411a-8d67-19cd49f8cafb	An event occurred.
+14092023	23:19:27	e8e061db-d1ab-4178-ac67-b74f3cc11c73	OPTIONS	undefined	/auth
+14092023	23:19:27	a19e2aac-4bc6-4e80-a0f2-d8472f161e25	POST	undefined	/auth
+14092023	23:20:22	18dbfa74-e0a2-426e-a0a1-609b1b7c51d3	POST	undefined	/logout
+14092023	23:21:53	97f08b6c-2d8e-4242-a79e-210635c07e31	OPTIONS	undefined	/auth
+14092023	23:21:53	db182233-7d80-4596-9a86-daa35552a325	POST	undefined	/auth
+14092023	23:21:58	1d208dc3-dab3-4b8b-86b3-9d729a81b2f6	POST	undefined	/logout
