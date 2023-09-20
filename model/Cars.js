@@ -4,27 +4,39 @@ const Schema = mongoose.Schema;
 const carSchema = new Schema({
   make: {
     type: String,
-    require: true,
+    required: true,
   },
   model: {
     type: String,
-    require: true,
+    required: true,
   },
   year: {
     type: Number,
-    require: true,
+    required: true,
   },
-  class: {
-    type: Number,
-    require: true,
+  carClass: {
+    type: String,
+    required: true,
   },
   location: {
-    type: Number,
-    require: true,
+    type: String,
+    required: true,
   },
-  Engine: {
+  transmission: {
+    type: String,
+    required: true,
+  },
+  description: {
+    type: String,
+    required: true,
+  },
+  imageUrl: {
+    type: [String],
+    required: false,
+  },
+  price: {
     type: Number,
-    require: true,
+    required: true,
   },
   postedBy: {
     type: mongoose.Schema.Types.ObjectId,
