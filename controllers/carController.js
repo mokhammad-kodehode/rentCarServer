@@ -11,24 +11,26 @@ const createCar = async (req, res) => {
       carClass,
       location,
       transmission,
-      postedBy,
       description,
+      imageUrl,
       price,
     } = req.body;
+
+    const postedBy = req.user;
 
     const newCar = new Car({
       make,
       model,
       year,
-      carClass,
+      carClass, // Включаем дополнительные поля
       location,
       transmission,
       postedBy,
       description,
       price,
+      imageUrl,
     });
 
-    // Если есть файл изображения, сохраняем его путь в объект машины
     if (req.files && req.files.length > 0) {
       const imageUrls = req.files.map((file) => file.path);
       newCar.imageUrl = imageUrls;
@@ -77,7 +79,7 @@ const updateCar = async (req, res) => {
       year,
       carClass,
       location,
-      transmision,
+      transmission,
       imageUrl,
       postedBy,
     } = req.body;
@@ -89,7 +91,7 @@ const updateCar = async (req, res) => {
 
     const updatedCar = await Car.findByIdAndUpdate(
       carId,
-      { make, model, year, carClass, location, transmision, imageUrl },
+      { make, model, year, carClass, location, transmission, imageUrl },
       { new: true }
     );
 
